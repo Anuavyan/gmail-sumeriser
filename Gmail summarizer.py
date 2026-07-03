@@ -1,5 +1,5 @@
 """
-Gmail filter + summarize with Claude
+Gmail filter + summarize with Claude Anuradha test branch 
 -------------------------------------
 1. Authenticates with Gmail (OAuth, runs once, then caches token.json)
 2. Finds all emails from a specific sender address
